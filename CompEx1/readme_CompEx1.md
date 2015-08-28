@@ -7,7 +7,7 @@
 2. [Preliminary Design](#preliminary-design)
  * [Code](#code)
 3. [Software flow chart or algorithms](#software-flow-chart-or-algorithms)
- * [Pseudocode](#psuedocode)
+ * [Pseudocode](#pseudocode)
 4. [Hardware schematic](#hardware-schematic)
 5. [Well-formatted code](#well-formatted-code)
 6. [Debugging](#debugging)
