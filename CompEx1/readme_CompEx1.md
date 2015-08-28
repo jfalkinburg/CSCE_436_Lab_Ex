@@ -2,7 +2,21 @@
 
 ## By Capt Jeff Falkinburg
 
-### Objectives or purpose 
+## Table of Contents (not required)
+1. [Objectives or Purpose](#Objectives-or-Purpose)
+2. [Preliminary Design](#Preliminary-Design)
+ * [Pseudocode](#psuedocode)
+ * [Code](#code)
+3. [Software flow chart or algorithms](#Software-flow-chart-or-algorithms)
+ * [Screenshots](#screenshots)
+4. [Hardware schematic](#Hardware-schematic)
+5. [Well-formatted code](#Well-formatted-code)
+6. [Debugging](#Debugging)
+7. [Testing methodology or results](#Testing-methodology-or-results)
+8. [Observations and Conclusions](#Observations-and-Conclusions)
+9. [Documentation](#Documentation)
+ 
+### Objectives or Purpose 
 This should include a paragraph on what is the goal of this assignment?
 
 Remember, the purpose of the lab notebook is to communicate EVERYTHING you have done in pursuit of a particular project.  If you are sitting on the bus scribbling on the back of an envelope about your lab design, take a picture of that and include it with your work.  Without adequate documentation, your instructor won’t know what your thought process was and will not be able to grade you properly.  Once you leave the school environment, fellow engineers may need to pick up your project where you left off if you PCA, PCS, get hospitalized, or otherwise find yourself no longer working on something.  You will save your employer/co-workers/replacement a lot of time and money if you have left a detailed record for them to easily understand what you were doing, the approach you took, the tests you performed, and what you learned.
@@ -12,6 +26,10 @@ How will you start attacking the problem?
 This should include detailed instructions of what you are about to do.  It may include PreLab material and also information from the Lab Handout.  Use pictures and data from Lab Handout.
 You may also use snippets of code in here as well:
 
+#### Pseudocode:
+Insert pseudocode or flowchart here.
+
+#### Code:
 	;-------------------------------------------------------------------------------
 	; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
 	; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
@@ -22,7 +40,7 @@ You may also use snippets of code in here as well:
 	; Documentation: none 
 	;-------------------------------------------------------------------------------
 
-### Software flow chart / algorithms
+### Software flow chart or algorithms
 All coding include a pseudocode flow charts and algorithms defined your code and the algorithms used.  Visio or PowerPoint works well for this!
 
 ### Hardware schematic
@@ -34,7 +52,7 @@ All your code will be in the code folder and contain headers, comments, and good
 ### Debugging
 You should be keeping track of issues as you go along.  I didn't have any problems is not a good answer.  Describe the problems you had and what you did to fix it.  Again this is where I would say commit early and often and start your notebook when you start your code.
 
-### Testing methodology / results
+### Testing methodology or results
 Detail the steps in getting the results you system is designed to achieve.  Have enough detail that someone can come behind and reproduce your results.
 
 Display your results and describe them in detail so that anyone can understand.  For example Figure 1 below shows a screenshot of a memory dump for RAM from 0x0200 to 0x024E.  You will also describe to the reader what they are looking at.
