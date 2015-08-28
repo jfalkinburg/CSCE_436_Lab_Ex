@@ -2,19 +2,18 @@
 
 ## By Capt Jeff Falkinburg
 
-## Table of Contents (not required)
-1. [Objectives or Purpose](#Objectives-or-Purpose)
-2. [Preliminary Design](#Preliminary-Design)
- * [Pseudocode](#psuedocode)
+## Table of Contents (not required but makes things easy to read)
+1. [Objectives or Purpose](#objectives-or-purpose)
+2. [Preliminary Design](#preliminary-design)
  * [Code](#code)
-3. [Software flow chart or algorithms](#Software-flow-chart-or-algorithms)
- * [Screenshots](#screenshots)
-4. [Hardware schematic](#Hardware-schematic)
-5. [Well-formatted code](#Well-formatted-code)
-6. [Debugging](#Debugging)
-7. [Testing methodology or results](#Testing-methodology-or-results)
-8. [Observations and Conclusions](#Observations-and-Conclusions)
-9. [Documentation](#Documentation)
+3. [Software flow chart or algorithms](#software-flow-chart-or-algorithms)
+ * [Pseudocode](#psuedocode)
+4. [Hardware schematic](#hardware-schematic)
+5. [Well-formatted code](#well-formatted-code)
+6. [Debugging](#debugging)
+7. [Testing methodology or results](#testing-methodology-or-results)
+8. [Observations and Conclusions](#observations-and-conclusions)
+9. [Documentation](#documentation)
  
 ### Objectives or Purpose 
 This should include a paragraph on what is the goal of this assignment?
@@ -25,9 +24,6 @@ Remember, the purpose of the lab notebook is to communicate EVERYTHING you have 
 How will you start attacking the problem?
 This should include detailed instructions of what you are about to do.  It may include PreLab material and also information from the Lab Handout.  Use pictures and data from Lab Handout.
 You may also use snippets of code in here as well:
-
-#### Pseudocode:
-Insert pseudocode or flowchart here.
 
 #### Code:
 	;-------------------------------------------------------------------------------
@@ -42,6 +38,9 @@ Insert pseudocode or flowchart here.
 
 ### Software flow chart or algorithms
 All coding include a pseudocode flow charts and algorithms defined your code and the algorithms used.  Visio or PowerPoint works well for this!
+
+#### Pseudocode:
+Insert pseudocode or flowchart here.
 
 ### Hardware schematic
 If you are wiring things up you will need to create a schematic for your design.
