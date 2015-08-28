@@ -12,17 +12,15 @@ How will you start attacking the problem?
 This should include detailed instructions of what you are about to do.  It may include PreLab material and also information from the Lab Handout.  Use pictures and data from Lab Handout.
 You may also use snippets of code in here as well:
 
-;-------------------------------------------------------------------------------
-; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
-; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
-;
-; Purpose:  This program is a demonstration of using the CCS IDE to
-; program, assemble, flash, and debug the MSP430.
-; 
-; Documentation: none 
-;-------------------------------------------------------------------------------
-
-
+	;-------------------------------------------------------------------------------
+	; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
+	; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
+	;
+	; Purpose:  This program is a demonstration of using the CCS IDE to
+	; program, assemble, flash, and debug the MSP430.
+	; 
+	; Documentation: none 
+	;-------------------------------------------------------------------------------
 
 ### Software flow chart / algorithms
 All coding include a pseudocode flow charts and algorithms defined your code and the algorithms used.  Visio or PowerPoint works well for this!
