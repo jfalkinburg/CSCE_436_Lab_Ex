@@ -4,7 +4,8 @@
 ;
 ; This program is a demonstration of using the CCS IDE to
 ; program, assemble, flash, and debug the MSP430.
-
+; 
+; Documentation: none
 ;-------------------------------------------------------------------------------
             .cdecls C,LIST,"msp430.h"       ; Include device header file
 

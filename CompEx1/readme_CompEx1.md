@@ -10,6 +10,19 @@ Remember, the purpose of the lab notebook is to communicate EVERYTHING you have 
 ### Preliminary design
 How will you start attacking the problem?
 This should include detailed instructions of what you are about to do.  It may include PreLab material and also information from the Lab Handout.  Use pictures and data from Lab Handout.
+You may also use snippets of code in here as well:
+
+;-------------------------------------------------------------------------------
+; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
+; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
+;
+; Purpose:  This program is a demonstration of using the CCS IDE to
+; program, assemble, flash, and debug the MSP430.
+; 
+; Documentation: none 
+;-------------------------------------------------------------------------------
+
+
 
 ### Software flow chart / algorithms
 All coding include a pseudocode flow charts and algorithms defined your code and the algorithms used.  Visio or PowerPoint works well for this!
@@ -18,7 +31,7 @@ All coding include a pseudocode flow charts and algorithms defined your code and
 If you are wiring things up you will need to create a schematic for your design.
 
 ### Well-formatted code
-All your code will be in the code folder and contain headers, comments, and good coding practices.  Please reference the 
+All your code will be in the code folder and contain headers, comments, and good coding practices.  Please reference the Lab Notebook requirements page.
 
 ### Debugging
 You should be keeping track of issues as you go along.  I didn't have any problems is not a good answer.  Describe the problems you had and what you did to fix it.  Again this is where I would say commit early and often and start your notebook when you start your code.
