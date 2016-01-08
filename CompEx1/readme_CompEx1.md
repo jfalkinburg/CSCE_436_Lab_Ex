@@ -12,6 +12,7 @@
 5. [Well-formatted code](#well-formatted-code)
 6. [Debugging](#debugging)
 7. [Testing methodology or results](#testing-methodology-or-results)
+8. [Answers to Lab Questions](#answers-to-lab-questions)
 8. [Observations and Conclusions](#observations-and-conclusions)
 9. [Documentation](#documentation)
  
@@ -26,6 +27,8 @@ This should include detailed instructions of what you are about to do.  It may i
 You may also use snippets of code in here as well:
 
 #### Code:
+
+######Assembly Header:
 	;-------------------------------------------------------------------------------
 	; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
 	; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
@@ -36,6 +39,50 @@ You may also use snippets of code in here as well:
 	; Documentation: none 
 	;-------------------------------------------------------------------------------
 
+#####VHDL Header:
+	--------------------------------------------------------------------
+	-- Name:<Your Name>
+	-- Date:<The date you stated working on the file>
+	-- Course:	<The course's name>
+	-- File:<This file's name>
+	-- HW:	<HW# and name>
+	--
+	-- Purp:A brief description of what this program does and 
+	--	the general solution strategy. 
+	--
+	-- Doc:	<list the names of the people who you helped>
+	-- 	<list the names of the people who assisted you>
+	--
+	-- Academic Integrity Statement: I certify that, while others may have 
+	-- assisted me in brain storming, debugging and validating this program, 
+	-- the program itself is my own work. I understand that submitting code 
+	-- which is the work of other individuals is a violation of the honor   
+	-- code.  I also understand that if I knowingly give my original work to 
+	-- another individual is also a violation of the honor code. 
+	------------------------------------------------------------------------- 
+
+#####C Header:
+	/*--------------------------------------------------------------------
+	Name:<Your Name>
+	Date:<The date you stated working on the file>
+	Course:	<The course's name>
+	File:<This file's name>
+	HW:	<HW# and name>
+	
+	Purp:A brief description of what this program does and 
+		the general solution strategy. 
+	
+	Doc:	<list the names of the people who you helped>
+			<list the names of the people who assisted you>
+	
+	Academic Integrity Statement: I certify that, while others may have 
+	assisted me in brain storming, debugging and validating this program, 
+	the program itself is my own work. I understand that submitting code 
+	which is the work of other individuals is a violation of the honor   
+	code.  I also understand that if I knowingly give my original work to 
+	another individual is also a violation of the honor code. 
+	-------------------------------------------------------------------------*/
+	
 ### Software flow chart or algorithms
 All coding include a pseudocode flow charts and algorithms defined your code and the algorithms used.  Visio or PowerPoint works well for this!
 
@@ -59,6 +106,8 @@ Display your results and describe them in detail so that anyone can understand. 
 ![Memory Dump](images/Memory.PNG)
 ##### Figure 1: Memory Dump Label (Always include figure labels!)
 
+### Answers to Lab Questions
+Here is where you would answer any lab questions given in the lab writeup.
 
 ### Observations and Conclusions
 During this whole assignment, what did you learn?  What did you notice that was noteworthy?  This should be a paragraph starting with the purpose, whether or not you achieved that purpose, what you learned, and how you can use this for future labs.

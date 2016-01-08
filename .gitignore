@@ -1,0 +1,84 @@
+#Ignore everything
+*
+
+# Except for the following items
+!.gitignore
+
+
+# then add back in the files that we are interested in 
+
+!*/**/*.xlsx
+!*/**/*.prj
+!*/
+!*/*.vhdl
+!*/*.vhd
+!*/*.bit
+!*/*.ucf
+!*/*.wcfg
+!*/*.sch
+!*/*.txt
+!*/*.jpg
+!*/*.png
+!*/*.PNG
+!*/*.c
+!*/*.asm
+!*/*.h
+!*/*.doc
+!*/*.docx
+!*/*.pptx
+!*/*.xlsx
+!*/*.prj
+!*/*.pao
+!*/*.mpd
+!*/*.zip
+
+
+!*/**/
+!*/**/*.vhdl
+!*/**/*.vhd
+!*/**/*.bit
+!*/**/*.ucf
+!*/**/*.wcfg
+!*/**/*.sch
+!*/**/*.txt
+!*/**/*.jpg
+!*/**/*.png
+!*/**/*.PNG
+!*/**/*.c
+!*/**/*.asm
+!*/**/*.h
+!*/**/*.doc
+!*/**/*.docx
+!*/**/*.pptx
+!*/**/*.pao
+!*/**/*.mpd
+!*/**/*.zip
+!*/**/oscope_v1_00_a/*.*
+
+#And ignore all .c files in the isim directory.
+*/isim/**/*.c
+
+# Et cetera.  Be sure to list all the file types you may want to use.  
+
+# This file keeps you from uploading junk to BitBucket or from seeing a bunch of junk in your
+# gitbash window.  However, you need to make sure your folders and your files that you do 
+# want to upload are included here.  For example, you'll want to add "!CPX2" just like the 
+# lab examples above.  If you want to include .jpg files, add them just like the .vhd
+# files.  Google can be your friend if you want to learn how this works better.
+
+# Note, this file must match your naming conventions.  If you call your folder Alien_lab1,
+# you'll need to type "!Alien_lab1", etc.  
+
+# Come back and modify this file as you see fit.
+# Et cetera.  Be sure to list all the file types you may want to use.  
+
+# This file keeps you from uploading junk to BitBucket or from seeing a bunch of junk in your
+# gitbash window.  However, you need to make sure your folders and your files that you do 
+# want to upload are included here.  For example, you'll want to add "!CPX2" just like the 
+# lab examples above.  If you want to include .jpg files, add them just like the .vhd
+# files.  Google can be your friend if you want to learn how this works better.
+
+# Note, this file must match your naming conventions.  If you call your folder Alien_lab1,
+# you'll need to type "!Alien_lab1", etc.  
+
+# Come back and modify this file as you see fit.
