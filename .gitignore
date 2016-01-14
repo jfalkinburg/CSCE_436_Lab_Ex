@@ -31,6 +31,7 @@
 !*/*.pao
 !*/*.mpd
 !*/*.zip
+!*/*.md
 
 
 !*/**/
@@ -53,6 +54,7 @@
 !*/**/*.pao
 !*/**/*.mpd
 !*/**/*.zip
+!*/**/*.md
 !*/**/oscope_v1_00_a/*.*
 
 #And ignore all .c files in the isim directory.
