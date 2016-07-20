@@ -28,6 +28,8 @@ You may also use snippets of code in here as well:
 
 #### Code:
 
+**You should only include important key code snippets in your readme.  All code files should be included in code folder.**
+
 ######Assembly Header:
 	;-------------------------------------------------------------------------------
 	; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
