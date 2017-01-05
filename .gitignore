@@ -9,7 +9,6 @@
 
 !*/**/*.xlsx
 !*/**/*.prj
-!*/**/*.xise
 !*/
 !*/*.vhdl
 !*/*.vhd
@@ -24,7 +23,6 @@
 !*/*.c
 !*/*.asm
 !*/*.h
-!*/*.xise
 !*/*.doc
 !*/*.docx
 !*/*.pptx
@@ -32,9 +30,12 @@
 !*/*.prj
 !*/*.pao
 !*/*.mpd
+!*/*.mhs
+!*/*.xmp
 !*/*.zip
-!*/*.md
-
+!*/*.xpr
+!*/*.sysdef
+!*/*.hdf
 
 !*/**/
 !*/**/*.vhdl
@@ -56,24 +57,32 @@
 !*/**/*.pao
 !*/**/*.mpd
 !*/**/*.zip
-!*/**/*.md
+!*/**/*.xpr
+!*/**/*.xmp
+!*/**/*.sysdef
+!*/**/*.hdf
+!*/**/*.srcs/**/*.v
+!*/**/SDK/**/*.*
+!*/**/pcores/**/*.*
 !*/**/oscope_v1_00_a/*.*
 
 #And ignore all .c files in the isim directory.
 */isim/**/*.c
+#And ignore the testing directory
+*Testing/*.*
+*Looper/**/*.*
 
-# Et cetera.  Be sure to list all the file types you may want to use.  
+#And ignore assorted Vivado files
+*/**/.metadata/**/*.*
+*/**/htr.txt
+*/**/*changelog.txt
+*/**/*Options.txt
+*/**/*TempBreakPointFile.txt
+*/**/README.txt
+*/**/file_info.txt
+*/**/vlog.prj
+*/**/*vhdl.prj	
 
-# This file keeps you from uploading junk to BitBucket or from seeing a bunch of junk in your
-# gitbash window.  However, you need to make sure your folders and your files that you do 
-# want to upload are included here.  For example, you'll want to add "!CPX2" just like the 
-# lab examples above.  If you want to include .jpg files, add them just like the .vhd
-# files.  Google can be your friend if you want to learn how this works better.
-
-# Note, this file must match your naming conventions.  If you call your folder Alien_lab1,
-# you'll need to type "!Alien_lab1", etc.  
-
-# Come back and modify this file as you see fit.
 # Et cetera.  Be sure to list all the file types you may want to use.  
 
 # This file keeps you from uploading junk to BitBucket or from seeing a bunch of junk in your
