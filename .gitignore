@@ -46,6 +46,7 @@
 !*/**/*.wcfg
 !*/**/*.sch
 !*/**/*.txt
+!**/**/*.md
 !*/**/*.jpg
 !*/**/*.png
 !*/**/*.PNG
@@ -69,7 +70,7 @@
 !*/**/oscope_v1_00_a/*.*
 
 #And ignore all .c files in the isim directory.
-*/isim/**/*.c
+**/isim/**/*.c
 #And ignore the testing directory
 *Testing/*.*
 *Looper/**/*.*
