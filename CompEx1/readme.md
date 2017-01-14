@@ -28,9 +28,20 @@ You may also use snippets of code in here as well:
 
 #### Code:
 
-**You should only include important key code snippets in your readme.  All code files should be included in code folder.**
+**You should only include important key code snippets in your README.  All code files should be included in code folder.**
 
-######Assembly Header:
+**Well-formatted code**
+ - All of your code should be written with:
+    1. headers
+    2. comments
+    3. good coding practices.
+
+
+##### Sample Code Headers
+The following are *example* headers, but your instructor may require a different template to be used.
+
+**Assembly Header:**
+
 	;-------------------------------------------------------------------------------
 	; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
 	; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
@@ -94,9 +105,6 @@ Insert pseudocode or flowchart here.
 ### Hardware schematic
 If you are wiring things up you will need to create a schematic for your design.
 
-### Well-formatted code
-All your code will be in the code folder and contain headers, comments, and good coding practices.  Please reference the Lab Notebook requirements page.
-
 ### Debugging
 You should be keeping track of issues as you go along.  I didn't have any problems is not a good answer.  Describe the problems you had and what you did to fix it.  Again this is where I would say commit early and often and start your notebook when you start your code.
 
@@ -106,7 +114,7 @@ Detail the steps in getting the results you system is designed to achieve.  Have
 Display your results and describe them in detail so that anyone can understand.  For example Figure 1 below shows a screenshot of a memory dump for RAM from 0x0200 to 0x024E.  You will also describe to the reader what they are looking at.
 
 ![Memory Dump](images/Memory.PNG)
-##### Figure 1: Memory Dump Label (Always include figure labels!)
+##### Figure 1: Memory Dump Label (Always include figure AND table labels!)
 
 ### Answers to Lab Questions
 Here is where you would answer any lab questions given in the lab writeup.
