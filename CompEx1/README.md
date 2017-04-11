@@ -1,6 +1,6 @@
 # Descriptive title - Computer Exercise #1 - Introduction to the MSP430 and Code Composer Studio
 
-## By Capt Jeff Falkinburg
+## By Maj Jeff Falkinburg
 
 ## Table of Contents (not required but makes things easy to read)
 1. [Objectives or Purpose](#objectives-or-purpose)
@@ -52,7 +52,7 @@ The following are *example* headers, but your instructor may require a different
 	; Documentation: none 
 	;-------------------------------------------------------------------------------
 
-#####VHDL Header:
+##### VHDL Header:
 	--------------------------------------------------------------------
 	-- Name:<Your Name>
 	-- Date:<The date you stated working on the file>
@@ -74,7 +74,7 @@ The following are *example* headers, but your instructor may require a different
 	-- another individual is also a violation of the honor code. 
 	------------------------------------------------------------------------- 
 
-#####C Header:
+##### C Header:
 	/*--------------------------------------------------------------------
 	Name:<Your Name>
 	Date:<The date you stated working on the file>
