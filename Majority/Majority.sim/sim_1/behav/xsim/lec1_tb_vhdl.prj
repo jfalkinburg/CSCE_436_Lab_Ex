@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Majority.srcs/sources_1/imports/Example_VHDL/lec01.vhdl" \
+"../../../../Majority.srcs/sim_1/imports/Example_VHDL/lec01_tb.vhdl" \
+
+# Do not sort compile order
+nosort
