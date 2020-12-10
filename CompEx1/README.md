@@ -1,6 +1,6 @@
 # Descriptive title - Computer Exercise #1 - Introduction to the MSP430 and Code Composer Studio
 
-## By Maj Jeff Falkinburg
+## By Prof Jeff Falkinburg
 
 ## Table of Contents (not required but makes things easy to read)
 1. [Objectives or Purpose](#objectives-or-purpose)
@@ -39,18 +39,6 @@ You may also use snippets of code in here as well:
 
 ##### Sample Code Headers
 The following are *example* headers, but your instructor may require a different template to be used.
-
-**Assembly Header:**
-
-	;-------------------------------------------------------------------------------
-	; CompEx 1 - Introduction to the MSP430 and Code Composer Studio
-	; Capt Jeff Falkinburg, USAF / 16 Jun 2015 (Start Date) / 16 Jun 2015 (Completion Date)
-	;
-	; Purpose:  This program is a demonstration of using the CCS IDE to
-	; program, assemble, flash, and debug the MSP430.
-	; 
-	; Documentation: none 
-	;-------------------------------------------------------------------------------
 
 ##### VHDL Header:
 	--------------------------------------------------------------------
