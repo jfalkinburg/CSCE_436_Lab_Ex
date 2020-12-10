@@ -8,7 +8,6 @@
 # then add back in the files that we are interested in 
 
 !*/**/*.xlsx
-!*/**/*.prj
 !*/
 !*/*.vhdl
 !*/*.vhd
@@ -62,6 +61,9 @@
 !*/**/*.zip
 !*/**/*.xpr
 !*/**/*.xci
+!*/**/*.xdc
+!*/**/*.bd
+!*/**/*.prj
 !*/**/*.xmp
 !*/**/*.sysdef
 !*/**/*.hdf
@@ -69,6 +71,7 @@
 !*/**/*.srcs/**/*.v
 !*/**/SDK/**/*.*
 !*/**/pcores/**/*.*
+!ip_repo/**/*.*
 !*/**/oscope_v1_00_a/*.*
 
 #And ignore all .c files in the isim directory.
