@@ -1,4 +1,4 @@
-#CSCE 436 Example Project folder structure using the Majority circuit example in Lecture 1!
+# CSCE 436 Example Project folder structure using the Majority circuit example in Lecture 1!
 
 ## By Prof Jeff Falkinburg
 
