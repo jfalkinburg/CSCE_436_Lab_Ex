@@ -1,7 +1,7 @@
 # This is an example copy of your Repo
 ## You will have a directory structure that contains a directory for each Homework, Lecture, and Lab and looks like this:
 - /LabX (project folder)
-    - Do not create a code folder in the project folder.  Leave the code where the IDE puts within the project folder and don't move the code around.
+    - Do not create a code folder in the project folder.  Leave the code where the IDE puts it within the project folder and don't move the code around.
     - /images
         - Include all images you use in your notebook here
     - /docs
