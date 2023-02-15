@@ -9,10 +9,9 @@
 3. [Software flow chart or algorithms](#software-flow-chart-or-algorithms)
  * [Pseudocode](#pseudocode)
 4. [Hardware schematic](#hardware-schematic)
-5. [Well-formatted code](#well-formatted-code)
-6. [Debugging](#debugging)
-7. [Testing methodology or results](#testing-methodology-or-results)
-8. [Answers to Lab Questions](#answers-to-lab-questions)
+5. [Debugging](#debugging)
+6. [Testing methodology or results](#testing-methodology-or-results)
+7. [Answers to Lab Questions](#answers-to-lab-questions)
 8. [Observations and Conclusions](#observations-and-conclusions)
 9. [Documentation](#documentation)
  
